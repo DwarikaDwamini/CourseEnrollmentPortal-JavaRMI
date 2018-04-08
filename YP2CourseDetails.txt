@@ -1,0 +1,2 @@
+CSCI1	cpsm	concurrent programming and software modeling
+CSCI2	AOS	advanced operating system

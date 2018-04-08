@@ -1,0 +1,1 @@
+CSCI1	cpsm	sec01	100	130	0	Dr.hasan	CSCI2	aos	sec01	300	458	0	Dr.hall	
